@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\bin\Debug\net6.0\Akerman.exe
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\bin\Debug\net6.0\Akerman.deps.json
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\bin\Debug\net6.0\Akerman.runtimeconfig.json
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\bin\Debug\net6.0\Akerman.dll
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\bin\Debug\net6.0\Akerman.pdb
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.dll
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\refint\Akerman.dll
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.pdb
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\Akerman.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#_Seminar9\Akerman\obj\Debug\net6.0\ref\Akerman.dll
